@@ -1,0 +1,262 @@
+# depslib dependency file v1.0
+1603970973 source:c:\users\user\desktop\coding\code\cpu emulator\main.cpp
+	"Computer.h"
+	<iostream>
+
+1603971008 source:c:\users\user\desktop\coding\code\cpu emulator\src\computer.cpp
+	"Computer.h"
+	<bits/stdc++.h>
+	<unistd.h>
+
+1603349770 c:\users\user\desktop\coding\code\cpu emulator\include\computer.h
+	"RAM.h"
+	"CPU.h"
+	"Assembler.h"
+	"CU.h"
+
+1603467719 c:\users\user\desktop\coding\code\cpu emulator\include\ram.h
+	<vector>
+	<iostream>
+	<bitset>
+
+1603883807 source:c:\users\user\desktop\coding\code\cpu emulator\src\ram.cpp
+	"RAM.h"
+
+1603976350 source:c:\users\user\desktop\coding\code\cpu emulator\src\cpu.cpp
+	"CPU.h"
+	<bits/stdc++.h>
+	<bitset>
+
+1603960384 c:\users\user\desktop\coding\code\cpu emulator\include\cpu.h
+	"Register.h"
+	"ALU.h"
+	"CU.h"
+	"RAM.h"
+
+1603970908 source:c:\users\user\desktop\coding\code\cpu emulator\src\alu.cpp
+	"ALU.h"
+	<bits/stdc++.h>
+
+1603879808 c:\users\user\desktop\coding\code\cpu emulator\include\alu.h
+	"Register.h"
+
+1603368375 source:c:\users\user\desktop\coding\code\cpu emulator\src\register.cpp
+	"Register.h"
+	<iostream>
+
+1603367620 c:\users\user\desktop\coding\code\cpu emulator\include\register.h
+
+1602067896 source:c:\users\user\desktop\coding\code\cpu emulator\src\xyz.cpp
+	"xyz.h"
+
+1602067896 c:\users\user\desktop\coding\code\cpu emulator\include\xyz.h
+
+1603960184 c:\users\user\desktop\coding\code\cpu emulator\include\cu.h
+	<bitset>
+	<string>
+	<vector>
+	"Register.h"
+
+1603976316 source:c:\users\user\desktop\coding\code\cpu emulator\src\cu.cpp
+	"CU.h"
+	<iostream>
+
+1603968384 source:c:\users\user\desktop\coding\code\cpu emulator\src\assembler.cpp
+	"Assembler.h"
+
+1603470423 c:\users\user\desktop\coding\code\cpu emulator\include\assembler.h
+	"RAM.h"
+	<bits/stdc++.h>
+
+1603970973 source:c:\users\user\desktop\code\college\cpu emulator\main.cpp
+	"Computer.h"
+	<iostream>
+
+1603349770 c:\users\user\desktop\code\college\cpu emulator\include\computer.h
+	"RAM.h"
+	"CPU.h"
+	"Assembler.h"
+	"CU.h"
+
+1603467719 c:\users\user\desktop\code\college\cpu emulator\include\ram.h
+	<vector>
+	<iostream>
+	<bitset>
+
+1603960384 c:\users\user\desktop\code\college\cpu emulator\include\cpu.h
+	"Register.h"
+	"ALU.h"
+	"CU.h"
+	"RAM.h"
+
+1603367620 c:\users\user\desktop\code\college\cpu emulator\include\register.h
+
+1603879808 c:\users\user\desktop\code\college\cpu emulator\include\alu.h
+	"Register.h"
+
+1603960184 c:\users\user\desktop\code\college\cpu emulator\include\cu.h
+	<bitset>
+	<string>
+	<vector>
+	"Register.h"
+
+1604469552 c:\users\user\desktop\code\college\cpu emulator\include\assembler.h
+	"RAM.h"
+	<bits/stdc++.h>
+
+1603970908 source:c:\users\user\desktop\code\college\cpu emulator\src\alu.cpp
+	"ALU.h"
+	<bits/stdc++.h>
+
+1604472071 source:c:\users\user\desktop\code\college\cpu emulator\src\computer.cpp
+	"Computer.h"
+	<bits/stdc++.h>
+	<unistd.h>
+
+1603976350 source:c:\users\user\desktop\code\college\cpu emulator\src\cpu.cpp
+	"CPU.h"
+	<bits/stdc++.h>
+	<bitset>
+
+1603976316 source:c:\users\user\desktop\code\college\cpu emulator\src\cu.cpp
+	"CU.h"
+	<iostream>
+
+1603883807 source:c:\users\user\desktop\code\college\cpu emulator\src\ram.cpp
+	"RAM.h"
+
+1603368375 source:c:\users\user\desktop\code\college\cpu emulator\src\register.cpp
+	"Register.h"
+	<iostream>
+
+1604472114 source:c:\users\user\desktop\code\college\cpu emulator\src\assembler.cpp
+	"Assembler.h"
+
+1606503849 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\main.cpp
+	"Computer.h"
+	<iostream>
+
+1603349770 d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\include\computer.h
+	"RAM.h"
+	"CPU.h"
+	"Assembler.h"
+	"CU.h"
+
+1603467719 d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\include\ram.h
+	<vector>
+	<iostream>
+	<bitset>
+
+1603960384 d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\include\cpu.h
+	"Register.h"
+	"ALU.h"
+	"CU.h"
+	"RAM.h"
+
+1603367620 d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\include\register.h
+
+1603879808 d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\include\alu.h
+	"Register.h"
+
+1603960184 d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\include\cu.h
+	<bitset>
+	<string>
+	<vector>
+	"Register.h"
+
+1604469552 d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\include\assembler.h
+	"RAM.h"
+	<bits/stdc++.h>
+
+1603970908 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\src\alu.cpp
+	"ALU.h"
+	<bits/stdc++.h>
+
+1604472114 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\src\assembler.cpp
+	"Assembler.h"
+
+1604472071 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\src\computer.cpp
+	"Computer.h"
+	<bits/stdc++.h>
+	<unistd.h>
+
+1603976350 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\src\cpu.cpp
+	"CPU.h"
+	<bits/stdc++.h>
+	<bitset>
+
+1603976316 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\src\cu.cpp
+	"CU.h"
+	<iostream>
+
+1603883807 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\src\ram.cpp
+	"RAM.h"
+
+1603368375 source:d:\mohit\desktop\code\coding\cpu emulator\cpu emulator\src\register.cpp
+	"Register.h"
+	<iostream>
+
+1606505347 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\main.cpp
+	"Computer.h"
+	<iostream>
+
+1603349770 c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\include\computer.h
+	"RAM.h"
+	"CPU.h"
+	"Assembler.h"
+	"CU.h"
+
+1603467719 c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\include\ram.h
+	<vector>
+	<iostream>
+	<bitset>
+
+1603960384 c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\include\cpu.h
+	"Register.h"
+	"ALU.h"
+	"CU.h"
+	"RAM.h"
+
+1603367620 c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\include\register.h
+
+1603879808 c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\include\alu.h
+	"Register.h"
+
+1603960184 c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\include\cu.h
+	<bitset>
+	<string>
+	<vector>
+	"Register.h"
+
+1604469552 c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\include\assembler.h
+	"RAM.h"
+	<bits/stdc++.h>
+
+1603970908 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\src\alu.cpp
+	"ALU.h"
+	<bits/stdc++.h>
+
+1604472114 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\src\assembler.cpp
+	"Assembler.h"
+
+1604472071 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\src\computer.cpp
+	"Computer.h"
+	<bits/stdc++.h>
+	<unistd.h>
+
+1603976350 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\src\cpu.cpp
+	"CPU.h"
+	<bits/stdc++.h>
+	<bitset>
+
+1603976316 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\src\cu.cpp
+	"CU.h"
+	<iostream>
+
+1603883807 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\src\ram.cpp
+	"RAM.h"
+
+1603368375 source:c:\users\shrey\desktop\cpu emulator\cpu emulator\cpu emulator\src\register.cpp
+	"Register.h"
+	<iostream>
+

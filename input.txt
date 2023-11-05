@@ -1,0 +1,28 @@
+ldac 	 res
+//code section
+
+	ldac cnt	;ac = cnt
+
+up : 	ldac res   	;ac = res
+	add prv		//ac = ac + prv
+	stac tmp	//tmp = ac
+	ldac res	//ac = res
+	stac prv	//prv = ac
+	ldac tmp	//ac = tmp
+	stac res	//res = ac
+
+	ldac cnt	//ac = cnt
+	inac		//ac = ac + 1
+	stac cnt	//cnt = ac
+
+	jnz up		//if cnt != 0 repeat
+
+	ldac res	//ac = res
+	hlt		//we are done result is stored in ac
+
+// data section
+
+	prv = 0	
+	res = 1
+	cnt = -5
+	tmp = 0
